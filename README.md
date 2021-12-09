@@ -2,6 +2,7 @@
 
 
 ![](https://imgur.com/a/5J9Z0fU)
+![binary](https://user-images.githubusercontent.com/18062347/145335837-bf305d5f-c430-4647-ba9c-1264d6149722.jpg)
 
             
 <!-- **vtoloto/vtoloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
