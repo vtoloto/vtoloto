@@ -1,6 +1,6 @@
   <h1 align="center"> Oi, eu sou o Vitor, o Dev Vtoloto!!! </h1>
 
-<!--
+
 **vtoloto/vtoloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -13,8 +13,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![GitHub Org's stars](https://img.shields.io/github/stars/vtoloto?style=social)
+
+<!--![GitHub Org's stars](https://img.shields.io/github/stars/vtoloto?style=social) -->
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
