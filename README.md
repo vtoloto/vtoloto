@@ -7,8 +7,8 @@
 
 - 🔭 Olá eu estou atualmente trabalhando com Python.
 - 🌱 Estudando Pyhon - Numpy, MatplotLib, Storytelling e Análise de dados.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
 
 
 <!--![GitHub Org's stars](https://img.shields.io/github/stars/vtoloto?style=social) -->
